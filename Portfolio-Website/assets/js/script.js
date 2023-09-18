@@ -15,6 +15,8 @@ $(document).ready(function () {
             document.querySelector('#scroll-top').classList.remove('active');
         }
 
+
+//hello
         // scroll spy
         $('section').each(function () {
             let height = $(this).height();
